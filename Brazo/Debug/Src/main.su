@@ -1,0 +1,13 @@
+main.c:90:1:__io_putchar	16	static
+main.c:96:1:__io_getchar	16	static
+main.c:111:5:main	24	static
+main.c:271:6:SystemClock_Config	80	static
+main.c:308:6:user_init	8	static
+main.c:354:6:reset_positions	16	static
+main.c:364:6:default_position	4	static
+main.c:371:6:adc_dma_start_stop	24	static
+main.c:383:6:stop_adc_dma	8	static
+main.c:387:5:get_dma_value_norm	16	static
+main.c:397:6:lcd_manager	16	static
+main.c:485:6:HAL_UART_RxCpltCallback	40	static
+main.c:534:6:Error_Handler	4	static
